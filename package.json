@@ -1,0 +1,22 @@
+{
+  "name": "selenium-drivers-exe",
+  "version": "1.0.1",
+  "description": "Selenium package with drivers for firefox and chrome",
+  "main": "index.js",
+  "homepage": "https://github.com/armano2/selenium-drivers-exe#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armano2/selenium-drivers-exe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/armano2/selenium-drivers-exe/issues"
+  },
+  "author": "Armano (https://github.com/armano2)",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "path": "^0.12.7"
+  }
+}
